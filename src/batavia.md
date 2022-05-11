@@ -1,6 +1,5 @@
 ---
 layout: "layouts/base.liquid"
-title: Différentes salades
 ---
 
 <h1>{{ title }}</h1>
